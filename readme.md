@@ -1,7 +1,8 @@
 JavaScript Array Shuffle
 ========================
 
-    This is simple JavaScript library which shuffles the array randomly. This modifies the existing array itself.
+    This is simple JavaScript library which shuffles the array randomly.
+    This modifies the existing array itself.
     
 
 usage:
